@@ -1,0 +1,29 @@
+.redHeader
+{
+    color: red;
+}
+
+.blueHeader
+{
+    color: blue;
+}
+
+.visibility
+{
+    visibility: visible;
+}
+
+.hiddenHeader
+{
+    visibility: hidden;
+}
+
+.displayNone
+{
+    display: none;
+}
+
+.displayBlock
+{
+    display: block;
+}
