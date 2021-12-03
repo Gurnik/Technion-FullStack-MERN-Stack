@@ -42,7 +42,7 @@ function AllMembersPageComp(props) {
                 <input type="button" value="All Members" onClick={allMembers} />
                 <input type="button" value="Add Members" onClick={addMember} />
                 <br />
-                <br /> {console.log("AllMembersPage " + members)}
+                <br /> 
                 {
                     members.map((item, index) => {
                         return <MemberCardComp
