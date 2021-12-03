@@ -12,9 +12,12 @@ The db will ne created automatically as moviesDB.
 
 Usage:
 On first sever run, the app will create two users:
+
 * username: adminD
 * password: adminD
+
 and:
+
 * username: adminH
 * password: adminH
 
